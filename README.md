@@ -11,3 +11,5 @@ Ressources :
 * https://developer.themoviedb.org/reference/intro/getting-started
 * https://www.themoviedb.org/?language=fr-FR
 
+<!-- Activation de l'environnement virtuel : source venv/Scripts/activate -->
+<!-- Mise à jour du fichier requirements : pip freeze > requirements.txt -->
